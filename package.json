@@ -1,0 +1,29 @@
+{
+  "name": "lints-config",
+  "version": "0.0.1",
+  "description": "前端代码规范合集",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "release": "changeset publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://e.coding.net/hebyte/fexiangmu/lints-config.git"
+  },
+  "keywords": [
+    "代码格式校验"
+  ],
+  "author": "wenzhen",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "only-allow": "^1.2.1",
+    "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

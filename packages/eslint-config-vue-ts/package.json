@@ -1,0 +1,16 @@
+{
+  "name": "@lints-config/eslint-config-vue-ts",
+  "version": "0.0.1",
+  "description": "vue项目通用eslint配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "vue",
+    "extends"
+  ],
+  "author": "wenzhen",
+  "license": "ISC"
+}
