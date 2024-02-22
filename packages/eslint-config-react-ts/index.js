@@ -15,6 +15,13 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
   ],
-  plugins: ['@typescript-eslint', 'import', 'simple-import-sort', 'unused-imports', 'prettier'],
+  plugins: ['@typescript-eslint', 'import', 'simple-import-sort', 'unused-imports'],
   ignorePatterns: ['dist/', 'node_modules/', '**/*.min.js', '**/*.md'],
+  rules: {
+    'simple-import-sort/imports': 'error',
+    'simple-import-sort/exports': 'error',
+    'no-console': 'warn',
+    'import/first': 'error',
+    '@typescript-eslint/ban-ts-comment': 'off', // 禁用ts-ignore注释规则
+  },
 }
