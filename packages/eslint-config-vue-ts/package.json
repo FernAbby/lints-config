@@ -9,8 +9,21 @@
   "keywords": [
     "eslint",
     "vue",
+    "typescript",
     "extends"
   ],
   "author": "wenzhen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-vue": "^9.23.0",
+    "prettier": "3.2.5",
+    "vue-eslint-parser": "^9.4.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
