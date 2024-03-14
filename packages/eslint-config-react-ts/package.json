@@ -1,6 +1,6 @@
 {
   "name": "@lints-config/eslint-config-react-ts",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "react + typescript项目通用eslint配置",
   "main": "index.js",
   "files": [

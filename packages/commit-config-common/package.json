@@ -1,0 +1,14 @@
+{
+  "name": "@yx/commitlint-config",
+  "description": "统一 commitLint 配置",
+  "version": "0.0.5",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://nexus3.beijingyuanxin.com/repository/npm-host/"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.6.6",
+    "@commitlint/config-conventional": "^17.6.6"
+  }
+}
