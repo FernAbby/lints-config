@@ -17,7 +17,7 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   plugins: ['@typescript-eslint', 'import', 'simple-import-sort', 'unused-imports'],
-  ignorePatterns: ['dist/', 'node_modules/', '**/*.min.js', '**/*.md'],
+  ignorePatterns: ['dist/**', 'node_modules/**', '**/*.min.js', '**/*.md'],
   rules: {
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error',

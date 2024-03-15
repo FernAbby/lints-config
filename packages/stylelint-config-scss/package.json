@@ -1,0 +1,28 @@
+{
+  "name": "@lints-config/stylelint-config-scss",
+  "version": "0.0.2",
+  "description": "scss通用stylelint代码风格统一配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "scss",
+    "extends"
+  ],
+  "author": "wenzhen",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-scss": "^4.0.9",
+    "prettier": "3.2.5",
+    "stylelint": "^16.2.1",
+    "stylelint-config-prettier-scss": "^1.0.0",
+    "stylelint-config-standard-scss": "^13.0.0",
+    "stylelint-order": "^6.0.4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
