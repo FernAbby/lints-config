@@ -1,7 +1,7 @@
 {
   "name": "@lints-config/commitlint-config-common",
   "description": "统一 commitLint 配置",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "keywords": [
     "commit",

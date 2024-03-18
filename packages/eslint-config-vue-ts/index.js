@@ -20,7 +20,7 @@ module.exports = {
       jsx: true,
     },
   },
-  ignorePatterns: ['dist/**', 'build/**', 'node_modules/**', '**/*.min.js', '**/*.md', '**/*.css'],
+  ignorePatterns: ['dist', 'build', 'node_modules', '**/*.min.js', '**/*.md', '**/*.css'],
   rules: {
     // eslint-plugin-import 导入顺序
     'import/order': ['error', { groups: ['builtin', 'external', 'internal'] }],

@@ -14,7 +14,6 @@
   "author": "wenzhen",
   "license": "ISC",
   "dependencies": {
-    "postcss-scss": "^4.0.9",
     "prettier": "3.2.5",
     "stylelint": "^16.2.1",
     "stylelint-config-prettier-scss": "^1.0.0",

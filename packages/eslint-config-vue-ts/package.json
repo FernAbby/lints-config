@@ -1,6 +1,6 @@
 {
   "name": "@lints-config/eslint-config-vue-ts",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "vue项目通用eslint配置",
   "main": "index.js",
   "scripts": {
