@@ -9,6 +9,10 @@
     "lint",
     "extends"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FernAbby/lints-config.git"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

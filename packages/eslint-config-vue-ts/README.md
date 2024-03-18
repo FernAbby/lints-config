@@ -1,5 +1,5 @@
-# eslint-config-vue-ts
-统一配置 vue3 技术栈 ESLint
+# @lints-config/eslint-config-vue-ts
+vue3 + typescript 技术栈 ESLint 常用配置
 
 ## 安装
 

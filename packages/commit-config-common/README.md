@@ -1,6 +1,5 @@
 # @lints-config/commitlint-config-common
-
-统一 commitLint 配置
+commitlint 提交校验常用配置
 
 ## 安装
 

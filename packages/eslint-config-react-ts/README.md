@@ -1,5 +1,5 @@
-# eslint-config-react-ts
-统一配置 react 技术栈 ESLint
+# @lints-config/eslint-config-react-ts
+react + typescript 技术栈 ESLint 常用配置
 
 ## 安装
 

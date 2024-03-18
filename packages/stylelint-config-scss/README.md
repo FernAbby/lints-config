@@ -1,4 +1,4 @@
-# stylelint-config-scss
+# @lints-config/stylelint-config-scss
 
 scss样式统一 StyleLint 配置
 
